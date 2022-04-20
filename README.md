@@ -3,4 +3,4 @@
 ##Comerce
 
 
-- [landing page](https://GCode123xz.github.io/comerce-gv/jsondev-roloj-master)
+- [landing page](https://gcode123xz.github.io/comerce-gv/jsondev-roloj-master/)
